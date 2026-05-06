@@ -1,8 +1,10 @@
 **pycache**/
+__pycache__/
 *.py[cod]
 *$py.class
 *.pyo
 *.pyd
+*.pyc
 .venv/
 venv/
 env/
